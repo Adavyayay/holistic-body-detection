@@ -1,0 +1,1 @@
+Our software is based on sensing and tracking the body moments with the help of landmarks, with the help of our holistic body detection we aim to support people in maintaining their health while helping them be more productive without compromising on their well being both physical and mental
